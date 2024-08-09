@@ -1,6 +1,6 @@
 Files Necessary to make a udp pi server to share games to ps2 via ethernet
 
-Shares games from /dev/sda1 exfat formated storage with format 
+Shares games from /dev/sda1 exfat formated storage with folder format 
 - APPS
 - ART
 - CD
