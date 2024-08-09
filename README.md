@@ -12,3 +12,6 @@ Shares games from /dev/sda1 exfat formated storage with folder format
 - LNG
 - THM
 - VMC
+
+Games are in ISO format works with new PS2 Open Loader 
+https://www.youtube.com/watch?v=nKoRvWKojz0
