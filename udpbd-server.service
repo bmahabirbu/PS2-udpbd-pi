@@ -1,0 +1,12 @@
+
+[Unit]
+Description=UDP Block Device Server
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart= /home/pi/udpbd-server/udpbd-server /dev/sda1
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
